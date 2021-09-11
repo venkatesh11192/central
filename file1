@@ -3,4 +3,7 @@ this is first line
 this is first line
 this is 3rd line
 >>>>>>> new1
-this is extra2 line
+<<<<<<< HEAD
+this is extra2 
+this is extra1 line
+>>>>>>> 710094c2773f1802a7992b32e6ca03cc26a2fb08
